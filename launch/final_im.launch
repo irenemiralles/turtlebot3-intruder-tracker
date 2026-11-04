@@ -1,0 +1,7 @@
+<launch>
+	<!-- My Package launch file -->
+	<node pkg="final_im" type="final_im" name="seguiment_intrus"
+output="screen">
+	</node>
+</launch>
+
